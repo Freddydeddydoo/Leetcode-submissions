@@ -1,0 +1,8 @@
+you use ">=" or "<=" when you want to include the boundary (obviously) in this case I thought it would 
+simply lose the last character if I didn't use ">=" and that caused overflow. I will not do that again 
+
+std::isalpha<unsigned char> () <- for alpha characters
+std::isalnum<unsigned char> () <- for alphanumeric
+
+
+std::tolower() for easy comparison
