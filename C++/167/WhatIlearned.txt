@@ -1,0 +1,6 @@
+Read the question statemnt even if you've seen the question before!
+
+I got the same things wrong multiple times because I was returning something it didnt ask of me at all.
+
+1-indexed!
+return the space! not the value at that space!
